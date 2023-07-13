@@ -1,0 +1,4 @@
+#Thu Jul 13 10:54:27 IST 2023
+base.0=/home/nishu/AndroidStudioProjects/New_RunoMovies/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

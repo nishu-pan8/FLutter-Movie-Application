@@ -1,0 +1,13 @@
+/home/nishu/AndroidStudioProjects/runomovies/build/linux/x64/debug/bundle/runomovies
+/home/nishu/AndroidStudioProjects/runomovies/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/nishu/AndroidStudioProjects/runomovies/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/nishu/AndroidStudioProjects/runomovies/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/nishu/AndroidStudioProjects/runomovies/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/nishu/AndroidStudioProjects/runomovies/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/nishu/AndroidStudioProjects/runomovies/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/nishu/AndroidStudioProjects/runomovies/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/nishu/AndroidStudioProjects/runomovies/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/nishu/AndroidStudioProjects/runomovies/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/nishu/AndroidStudioProjects/runomovies/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/nishu/AndroidStudioProjects/runomovies/build/linux/x64/debug/bundle/data/flutter_assets/assets/nature1.jpg
+/home/nishu/AndroidStudioProjects/runomovies/build/linux/x64/debug/bundle/data/flutter_assets/assets/nature.jpg
